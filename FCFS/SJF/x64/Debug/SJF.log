@@ -1,0 +1,15 @@
+﻿  SJF.cpp
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(141,18): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(141,18): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(141,18): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(148,22): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(148,22): warning C4566: character represented by universal-character-name '\u1EDD' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(148,22): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(148,22): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(148,22): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(159,18): warning C4566: character represented by universal-character-name '\u1EDD' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(159,18): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(159,18): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(160,18): warning C4566: character represented by universal-character-name '\u1EDD' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SJF\SJF.cpp(160,18): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+  SJF.vcxproj -> D:\learn\hệ điều hành\lab4\FCFS\x64\Debug\SJF.exe

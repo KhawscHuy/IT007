@@ -1,0 +1,12 @@
+﻿  SRTF.cpp
+D:\learn\hệ điều hành\lab4\FCFS\SRTF\SRTF.cpp(100,18): warning C4566: character represented by universal-character-name '\u1EDD' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SRTF\SRTF.cpp(101,18): warning C4566: character represented by universal-character-name '\u1EDD' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SRTF\SRTF.cpp(106,18): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SRTF\SRTF.cpp(106,18): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SRTF\SRTF.cpp(106,18): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SRTF\SRTF.cpp(113,22): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SRTF\SRTF.cpp(113,22): warning C4566: character represented by universal-character-name '\u1EDD' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SRTF\SRTF.cpp(113,22): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SRTF\SRTF.cpp(113,22): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\learn\hệ điều hành\lab4\FCFS\SRTF\SRTF.cpp(113,22): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+  SRTF.vcxproj -> D:\learn\hệ điều hành\lab4\FCFS\x64\Debug\SRTF.exe
